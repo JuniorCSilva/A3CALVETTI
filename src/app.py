@@ -9,7 +9,7 @@ from src.service.reservation_service import ReservationService
 
 def menu():
     print("""
-== Gerenciador de Reservas - Biblioteca ==
+== Gerenciador de Reservas -Biblioteca ==
 1 - Cadastrar usuário
 2 - Cadastrar livro
 3 - Reservar livro
