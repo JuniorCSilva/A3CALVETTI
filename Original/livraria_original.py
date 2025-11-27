@@ -1,5 +1,5 @@
 # original/library_original.py
-# Código legado intencionalmente ruim — mistura de I/O, lógica e persistência
+# Código legado — mistura de I/O, lógica e persistência
 
 users = []
 books = []
