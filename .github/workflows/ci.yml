@@ -27,4 +27,4 @@ jobs:
         run: echo "PYTHONPATH=." >> $GITHUB_ENV
 
       - name: Run tests
-        run: pytest -q
+        run: python -m pytest -q
